@@ -1,0 +1,21 @@
+@extends('layouts.master')
+
+@section('content')
+
+<!-- breadcrumb start-->
+<section class="breadcrumb breadcrumb_bg">
+    <div class="container-fluid">
+        <div class="row">
+        <div class="col-lg-12">
+            <div class="breadcrumb_iner text-center">
+            <div class="breadcrumb_iner_item">
+                <h2>A propos</h2> 
+               
+            </div>
+            </div>
+        </div>
+        </div>
+    </div>
+</section>
+<!-- breadcrumb start-->
+@endsection
